@@ -22,7 +22,7 @@ Steps I thought of and executed for calculating the policy price:
 ## How to setup
 Run the following commands to setup, given `yarn` is available:
 
-1. ```git clone ()```
-2. ```cd ()```
+1. ```git clone https://github.com/xinbbbb/form-wizard.git```
+2. ```cd form-wizard/```
 3. ```yarn install```
 4. ```yarn serve```
